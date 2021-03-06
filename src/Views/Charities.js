@@ -5,17 +5,16 @@ function Charities() {
   return (
     <div className="Charities">
 
-
-    <div class="row">
-      <div class="column">
+  <div class="container">
+      <div class="image">
         <img className="char-img" src={process.env.PUBLIC_URL + "/images/heartfoundation.png"} alt="logo"></img>
       </div>
-
-      <div class="column">
-        <h2>British Heart Fundation</h2>
+      <div class="text">
+        <h3>British Heart Fundation</h3>
         <p>British Heart Fundation is funds research related to heart and circulatory diseases.</p>
       </div>
     </div>
+    
 
     <div class="row">
       <div class="column">
