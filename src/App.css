@@ -1,11 +1,18 @@
-.topnav, .footer, .home, .help, .contact{
-  padding: 10px 100px 10px 80px;
+/* General */
+.topnav, .footer, .home, .help, .contact, .charity{
+  padding: 10px 100px 75px 80px;
 }
 
 .yellow{
   background-color: var(--yellow);
 }
 
+.center{
+  text-align: center;
+}
+
+
+/* Navbar */
 .logo-img{
   width: 75px;
   height: 75px;
@@ -17,6 +24,7 @@
   padding-left: 0px;
 }
 
+/* Home */
 .dwn-img1{
   height: 50px;
 }
@@ -24,6 +32,8 @@
   height: 73px;
 }
 
-.download{
+/* Charities */
+.char-img{
   text-align: center;
+  width: 250px;
 }
