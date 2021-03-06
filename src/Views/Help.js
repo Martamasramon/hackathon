@@ -11,8 +11,9 @@ function Help() {
      
 
       <div className="home white">
-        <p>First, you need to understand the recycling symbols! It is essential to know them to recycle efficiently.</p>
+        <p>First, you need to understand the recycling labels! It is essential to know them to recycle efficiently.</p>
         <img src={process.env.PUBLIC_URL + "/images/Recycling.png"} alt="Little Forest"></img>
+        <p>Once you understand them, it is important to know what are your borough can recycle. Depending on your local area, you might be able to recycle some products that some other area cannot.</p>
       </div>
      </div>
     
