@@ -3,6 +3,16 @@ import React from "react";
 import Card from 'react-bootstrap/Card';
 
 function BoroughItem(props) {
+  const data = {
+    chelsea: {
+      card1_title: "Mixed bank",
+      card1_body: "To use the banks: you don't need to separate items. Don't use recycling bags - put items straight into the bank.",
+      card2_title: "Clear bag recycling",
+      card2_body: "22 clear recycling bags are distributed per property every three months. If you don’t receive these, please call Streetline on 020 7361 3001."      
+    }
+
+  }
+
   const borough = props.borough;
 
   return (
