@@ -11,9 +11,8 @@ function Charities() {
       </div>
       <div class="text">
         <h3>British Heart Fundation</h3>
-         <p>
-    British Heart Fundation is funds research related to heart and circulatory diseases.
-        </p>
+          <p>
+    <a href="https://www.bhf.org.uk">British Heart Fundation</a>funds research related to heart and circulatory diseases and their risk factors.</p>
       </div>
     </div>
     
@@ -24,7 +23,7 @@ function Charities() {
       <div class="text">
         <h3>Macmillan Cancer Support</h3>
         <p>
-    <a href="https://www.macmillan.org.uk">Macmillan Cancer Support</a> is one of the largest british charities. It provides healthcare, information and financial support to people affected by cancer..</p>
+    <a href="https://www.macmillan.org.uk">Macmillan Cancer Support</a>is one of the largest british charities. It provides healthcare, information and financial support to people affected by cancer.</p>
       </div>
     </div>
     
@@ -35,7 +34,7 @@ function Charities() {
       <div class="text">
         <h3>St. John Ambulance</h3>
       <p>
-    <a href="https://www.sja.org.uk">St John Ambulance</a> is one of the largest british charities. It provides healthcare, information and financial support to people affected by cancer.</p>
+    <a href="https://www.sja.org.uk">St John Ambulance</a>is one of the largest british charities. It provides healthcare, information and financial support to people affected by cancer.</p>
      </div>
     </div>
     
@@ -45,14 +44,11 @@ function Charities() {
       </div>
       <div class="text">
         <h3>Keep Britain Tidy</h3>
-        <p>Keep Britain Tidy is a UK-based independent environmental charity. The organisation campaigns to reduce litter, improve local places and prevent waste. It has offices in Wigan and London.</p>
+        <p>
+    <a href="https://www.keepbritaintidy.org">Keep Britain Tidy</a>is a UK-based independent environmental charity. The organisation campaigns to reduce litter, improve local places and prevent waste. It has offices in Wigan and London.</p>
       </div>
     </div>
     
-
-
-
-
     </div>
   );
 }
