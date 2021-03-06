@@ -18,7 +18,7 @@ function Home() {
         <img src={process.env.PUBLIC_URL + "/images/Image1png.png"} alt="Download our app"></img>
         <img src={process.env.PUBLIC_URL + "/images/Image2.png"} alt="Scan"></img>
         <img src={process.env.PUBLIC_URL + "/images/Image3.png"} alt="Recycle"></img>
-        <img src={process.env.PUBLIC_URL + "/images/Image4.png"} alt="We donate"></img>
+        <img src={process.env.PUBLIC_URL + "/images/iimage4.png"} alt="We donate"></img>
       </div>
     
       <div className="home center">
