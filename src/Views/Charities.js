@@ -7,23 +7,25 @@ function Charities() {
 
 
     <div class="row">
-    <div class="column">
-    <img className="char-img" src={process.env.PUBLIC_URL + "/images/heartfoundation.png"} alt="logo"></img>
+      <div class="column">
+        <img className="char-img" src={process.env.PUBLIC_URL + "/images/heartfoundation.png"} alt="logo"></img>
+      </div>
+
+      <div class="column">
+        <h2>British Heart Fundation</h2>
+        <p>British Heart Fundation is funds research related to heart and circulatory diseases.</p>
+      </div>
     </div>
-    <div class="column">
-    <h2>British Heart Fundation</h2>
-    <p>British Heart Fundation is funds research related to heart and circulatory diseases.</p>
-    </div>
-    </div>
-    
-        <div class="row">
-    <div class="column">
-    <img className="char-img" src={process.env.PUBLIC_URL + "/mcmillan.png"} alt="logo"></img>
-    </div>
-    <div class="column">
-    <h2>Macmillan Cancer Support/h2>
-    <p>Macmillan Cancer Support is one of the largest british charities. It provides healthcare, information and financial support to people affected by cancer.</p>
-    </div>
+
+    <div class="row">
+      <div class="column">
+        <img className="char-img" src={process.env.PUBLIC_URL + "/mcmillan.png"} alt="logo"></img>
+      </div>
+
+      <div class="column">
+        <h2>Macmillan Cancer Support</h2>
+        <p>Macmillan Cancer Support is one of the largest british charities. It provides healthcare, information and financial support to people affected by cancer.</p>
+      </div>
     </div>
 
 
