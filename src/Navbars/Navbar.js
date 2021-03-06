@@ -14,6 +14,7 @@ function NavigationBar() {
           <Nav className="ms-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/help">How to recycle</Nav.Link>
+            <Nav.Link href="/boroughs">Your borough</Nav.Link>
             <Nav.Link href="/charities">Charities</Nav.Link>
             <Nav.Link href="/contact">Who are we?</Nav.Link>
           </Nav>

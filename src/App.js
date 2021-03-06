@@ -6,9 +6,10 @@ import {BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import Home from "./Views/Home";
 import ContactUs from "./Views/ContactUs";
 import Charities from "./Views/Charities";
+import Help from "./Views/Help";
+import Boroughs from "./Views/Boroughs";
 import NavigationBar from "./Navbars/Navbar";
 import Footer from "./Navbars/Footer";
-import Help from "./Views/Help";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route exact path="/contact" component={ContactUs} />
           <Route exact path="/help" component={Help} />
           <Route exact path="/charities" component={Charities} />
+          <Route exact path="/boroughs" component={Boroughs} />
         </Switch>
       </Router>
       <Footer/>
