@@ -8,6 +8,7 @@ function Charities() {
       <div className="home center">
         <h2>Charities</h2>
         <p>Here are some of the charities that we work with. All are well known non-profit organisations that fight for causes that are important to us.</p>
+      <img src={process.env.PUBLIC_URL + "/images/5trees.png"} alt="Little Forest"></img>
       </div>
 
       <div className="home">
