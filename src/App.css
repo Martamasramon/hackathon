@@ -8,6 +8,11 @@
   background-color: var(--yellow);
 }
 
+.white{
+  background-color: var(--white);
+ padding: 10px 100px 75px 80px;
+}
+
 .green{
   background-color: var(--green);
 }
