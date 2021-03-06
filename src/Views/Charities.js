@@ -11,7 +11,9 @@ function Charities() {
       </div>
       <div class="text">
         <h3>British Heart Fundation</h3>
-        <p>British Heart Fundation is funds research related to heart and circulatory diseases.</p>
+         <p>
+    British Heart Fundation is funds research related to heart and circulatory diseases.
+        </p>
       </div>
     </div>
     
@@ -21,7 +23,8 @@ function Charities() {
       </div>
       <div class="text">
         <h3>Macmillan Cancer Support</h3>
-        <p>Macmillan Cancer Support is one of the largest british charities. It provides healthcare, information and financial support to people affected by cancer..</p>
+        <p>
+    <a href="https://www.macmillan.org.uk">Macmillan Cancer Support</a> is one of the largest british charities. It provides healthcare, information and financial support to people affected by cancer..</p>
       </div>
     </div>
     
@@ -31,8 +34,10 @@ function Charities() {
       </div>
       <div class="text">
         <h3>St. John Ambulance</h3>
-        <p>St John Ambulance is a volunteer-led, charitable non-governmental organisation dedicated to the teaching and practice of first aid in England.</p>
+      <p>
+    <a href="https://www.sja.org.uk">St John Ambulance</a> is one of the largest british charities. It provides healthcare, information and financial support to people affected by cancer.</p>
       </div>
+     </div>
     </div>
     
      <div class="container">
