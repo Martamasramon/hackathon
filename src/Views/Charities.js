@@ -16,6 +16,7 @@ function Charities() {
       </div>
     </div>
     
+    <div className="home yellow">
     <div class="container">
     <div class="image">
     <img className="char-img" src={process.env.PUBLIC_URL + "/images/mcmillan.png"} alt="logo"></img>
@@ -25,6 +26,7 @@ function Charities() {
         <p>
     <a href="https://www.macmillan.org.uk">Macmillan Cancer Support</a>is one of the largest british charities. It provides healthcare, information and financial support to people affected by cancer.</p>
       </div>
+    </div>
     </div>
     
      <div class="container">
@@ -38,6 +40,8 @@ function Charities() {
      </div>
     </div>
     
+    
+     <div className="home yellow">
      <div class="container">
     <div class="image">
     <img className="char-img" src={process.env.PUBLIC_URL + "/images/Keep.png"} alt="logo"></img>
@@ -47,6 +51,7 @@ function Charities() {
         <p>
     <a href="https://www.keepbritaintidy.org">Keep Britain Tidy</a>is a UK-based independent environmental charity. The organisation campaigns to reduce litter, improve local places and prevent waste. It has offices in Wigan and London.</p>
       </div>
+    </div>
     </div>
     
     </div>
