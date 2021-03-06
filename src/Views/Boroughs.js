@@ -42,6 +42,9 @@ const Boroughs = () => {
           </Dropdown.Menu>
         </Dropdown>
 
+        <img src={process.env.PUBLIC_URL + "/images/5trees.png"} alt="Little Forest"></img>
+
+
         {display.chelsea && <BoroughItem borough="Chelsea"/>}
         {display.fulham && <BoroughItem borough="Fulham"/>}
         {display.camden && <BoroughItem borough="Camden"/>}

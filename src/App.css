@@ -1,5 +1,6 @@
 /* General */
-.topnav, .footer, .home, .help, .contact, .charity, .whoarewe, .boroughs{
+.topnav, .footer, .home, .help, .contact, .charity,
+.whoarewe, .boroughs, .boroughItem{
   padding: 10px 100px 75px 80px;
 }
 
@@ -33,9 +34,6 @@
   justify-content: center
 }
 
-
-
-
 .image {
   flex-basis: 40%
 }
@@ -46,6 +44,17 @@
 }
 .dwn-img2{
   height: 73px;
+}
+
+/* Boroughs */
+.borough-card{
+  background-color: var(--green);
+  border-width: 0;
+}
+
+.card-subtitle{
+  padding-top: 15px;
+
 }
 
 /* Charities */
