@@ -57,9 +57,13 @@
   border-width: 0;
 }
 
+.card-title{
+  font-size: 20px;
+  font-weight: bold;
+}
 .card-subtitle{
   padding-top: 15px;
-
+  font-size: 18px;
 }
 
 /* Charities */
