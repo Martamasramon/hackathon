@@ -23,6 +23,18 @@
   font-weight: 600;
   padding-left: 0px;
 }
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+
+
+
+.image {
+  flex-basis: 40%
+}
 
 /* Home */
 .dwn-img1{
