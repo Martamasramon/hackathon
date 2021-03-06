@@ -1,5 +1,5 @@
 /* General */
-.topnav, .footer, .home, .help, .contact, .charity{
+.topnav, .footer, .home, .help, .contact, .charity, .whoarewe{
   padding: 10px 100px 75px 80px;
 }
 
@@ -36,4 +36,9 @@
 .char-img{
   text-align: center;
   width: 250px;
+}
+
+/* Who are we? */
+.us-img{
+  width: 70%;
 }
