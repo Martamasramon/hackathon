@@ -7,6 +7,8 @@ function Home() {
       <div className="home">
         <h1>Make an impact by recycling!</h1>
         <h2>You recycle. We donate.</h2>
+        <img src={process.env.PUBLIC_URL + "/images/5trees.png"} alt="Little Forest"></img>
+
       </div>
 
       <div className="home">
