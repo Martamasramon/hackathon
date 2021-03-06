@@ -17,6 +17,13 @@
   padding-left: 0px;
 }
 
-.dwn-img{
+.dwn-img1{
   height: 50px;
+}
+.dwn-img2{
+  height: 73px;
+}
+
+.download{
+  text-align: center;
 }

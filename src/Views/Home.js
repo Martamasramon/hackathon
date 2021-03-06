@@ -11,10 +11,10 @@ function Home() {
 
       </div>
 
-      <div className="home">
+      <div className="download">
         <h2>Download now!</h2>
-        <img className="dwn-img" src={process.env.PUBLIC_URL + "/images/appstore.png"} alt="logo"></img>
-        <img className="dwn-img" src={process.env.PUBLIC_URL + "/images/googleplay.png"} alt="logo"></img>
+        <img className="dwn-img1" src={process.env.PUBLIC_URL + "/images/appstore.png"} alt="logo"></img>
+        <img className="dwn-img2" src={process.env.PUBLIC_URL + "/images/googleplay.png"} alt="logo"></img>
       </div>
 
 
