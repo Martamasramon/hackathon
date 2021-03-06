@@ -5,6 +5,14 @@ function Charities() {
   return (
     <div className="Charities">
 
+   <div className="home center">
+       
+        <h2>Charities</h2>
+        <p>Here are some of the charities that we work with. All are well known non-profit organisations that fight for causes that are important to us.</p2>
+      </div>
+    
+    
+  <div className="home yellow">
   <div class="container">
       <div class="image">
         <img className="char-img" src={process.env.PUBLIC_URL + "/images/heartfoundation.png"} alt="logo"></img>
@@ -16,7 +24,7 @@ function Charities() {
       </div>
     </div>
     
-    <div className="home yellow">
+ 
     <div class="container">
     <div class="image">
     <img className="char-img" src={process.env.PUBLIC_URL + "/images/mcmillan.png"} alt="logo"></img>
@@ -41,7 +49,7 @@ function Charities() {
     </div>
     
     
-     <div className="home yellow">
+    
      <div class="container">
     <div class="image">
     <img className="char-img" src={process.env.PUBLIC_URL + "/images/Keep.png"} alt="logo"></img>
