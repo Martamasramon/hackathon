@@ -36,7 +36,6 @@ function Charities() {
         <h3>St. John Ambulance</h3>
       <p>
     <a href="https://www.sja.org.uk">St John Ambulance</a> is one of the largest british charities. It provides healthcare, information and financial support to people affected by cancer.</p>
-      </div>
      </div>
     </div>
     
