@@ -5,10 +5,14 @@ function Home() {
   return (
     <div>
       <div className="home">
-
         <h1>Make an impact by recycling!</h1>
         <h2>You recycle. We donate.</h2>
+      </div>
 
+      <div className="home">
+        <h2>Download now!</h2>
+        <img className="dwn-img" src={process.env.PUBLIC_URL + "/images/appstore.png"} alt="logo"></img>
+        <img className="dwn-img" src={process.env.PUBLIC_URL + "/images/googleplay.png"} alt="logo"></img>
       </div>
 
 
