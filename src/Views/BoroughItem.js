@@ -2,6 +2,7 @@ import '../App.css';
 import React from "react";
 import Card from 'react-bootstrap/Card';
 import data from './data';
+import Map from './Map';
 
 function BoroughItem(props) {
   var numb = 0;
@@ -74,6 +75,8 @@ function BoroughItem(props) {
 
         </div>
       </div>
+
+    <Map/>
 
     </div>
   );

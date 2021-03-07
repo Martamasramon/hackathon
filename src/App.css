@@ -81,6 +81,13 @@
   height: 130px;
 }
 
+.map{
+  height: 300px;
+  width: 300px;
+  padding-left: 17%;
+}
+
+
 /* Charities */
 .char-img{
   text-align: center;
