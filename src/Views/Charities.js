@@ -58,6 +58,30 @@ function Charities() {
         </div>
       </div>
     </div>
+    
+    <div class="container">
+        <div class="image">
+          <img className="char-img" src={process.env.PUBLIC_URL + "/images/Children.png"} alt="logo"></img>
+        </div>
+    
+    <div class="text">
+          <h3>Children in Need</h3>
+          <p><a href="https://www.bbcchildreninneed.co.uk">BBC Children in Need</a>is the BBC's UK charity for disadvantaged children and young people in the UK.</p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="container">
+        <div class="image">
+          <img className="char-img" src={process.env.PUBLIC_URL + "/WWF.png"} alt="logo"></img>
+        </div>
+    
+    <div class="text">
+          <h3>WWF</h3>
+          <p><a href="https://www.wwf.org.uk">WWF</a>is an international non-governmental organisation that aims to reduce the human impact on environment.</p>
+        </div>
+      </div>
+    </div>
 
     </div>
   );
