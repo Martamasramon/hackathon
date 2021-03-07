@@ -34,22 +34,22 @@ module.exports = [
       "- Unshredded paper, card and flattened cardboard boxes ",
       "- Plastic bottles (please squash and keep plastic lids on)",
       "- Plastic pots, tubs and trays and containers",
-      "- Food and drink cartons (please squash and keep plastic lids on)"
-      "- Tetra Paks (please squash and keep plastic lids on)"
-      "- Aluminium and steel tins and cans"
+      "- Food and drink cartons (please squash and keep plastic lids on)",
+      "- Tetra Paks (please squash and keep plastic lids on)",
+      "- Aluminium and steel tins and cans",
       "If you are in doubt, don't recycle!"
     ],
     noRecycle: [
       "- Food waste",
       "- Garden waste",
       "- Plastic wrappers",
-      "- Shredded paper"
-      "- Food-soiled packaging"
-      "- Polystyrene"
-      "- Foil"
-      "- Paper towels"
-      "- Plastic bags/bin bags"
-      "- Textiles, clothes or shoes"
+      "- Shredded paper",
+      "- Food-soiled packaging",
+      "- Polystyrene",
+      "- Foil",
+      "- Paper towels",
+      "- Plastic bags/bin bags",
+      "- Textiles, clothes or shoes",
       "- Aerosol cans"
     ]
   },
