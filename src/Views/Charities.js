@@ -73,7 +73,7 @@ function Charities() {
     
     <div class="container">
         <div class="image">
-          <img className="char-img" src={process.env.PUBLIC_URL + "/WWF.png"} alt="logo"></img>
+          <img className="char-img" src={process.env.PUBLIC_URL + "/images/WWF.png"} alt="logo"></img>
         </div>
     
     <div class="text">
