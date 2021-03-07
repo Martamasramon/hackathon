@@ -45,10 +45,10 @@ const Boroughs = () => {
         <img src={process.env.PUBLIC_URL + "/images/5trees.png"} alt="Little Forest"></img>
 
 
-        {display.chelsea && <BoroughItem borough="Chelsea"/>}
-        {display.fulham && <BoroughItem borough="Fulham"/>}
-        {display.camden && <BoroughItem borough="Camden"/>}
-        {display.islington && <BoroughItem borough="Islington"/>}
+        {display.chelsea && <BoroughItem borough="chelsea"/>}
+        {display.fulham && <BoroughItem borough="fulham"/>}
+        {display.camden && <BoroughItem borough="camden"/>}
+        {display.islington && <BoroughItem borough="islington"/>}
 
   </div>
   );

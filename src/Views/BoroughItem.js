@@ -5,8 +5,9 @@ import data from './data';
 
 function BoroughItem(props) {
   var numb = 0;
+  const boroughName = props.borough;
 
-  switch(props.borough) {
+  switch(boroughName) {
     case "chelsea":
       numb=0;
       break;
