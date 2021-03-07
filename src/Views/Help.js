@@ -40,8 +40,12 @@ function Help() {
            <p>Old photocopies</p>
            <p>Don not forget to remove any staples and paper clips before recycling papers!</p>
 
+<<<<<<< HEAD
 
            </div>
+=======
+      </div>
+>>>>>>> 90a1c1d2e26449bc8ab99ca2e1c0076ac6c41569
        </div>
 
     </div>
