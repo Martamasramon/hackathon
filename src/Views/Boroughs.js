@@ -2,6 +2,7 @@ import '../App.css';
 import React, {useState} from "react";
 import Dropdown from 'react-bootstrap/Dropdown';
 import BoroughItem from './BoroughItem';
+import Map from './Map';
 
 const Boroughs = () => {
 
@@ -50,6 +51,7 @@ const Boroughs = () => {
         {display.camden && <BoroughItem borough="camden"/>}
         {display.islington && <BoroughItem borough="islington"/>}
 
+        <Map/>
   </div>
   );
 }
