@@ -18,15 +18,14 @@ function Help() {
     
     <h1>Materials</h1>
      <p>Here is a list of the materials that can be recycled: </p>
-     <p>Plastics</p>
-     <ul>
-     <li>Cling wrap</li>
-     <li>Margarine tubes</li>
-     <li>Plastic trays</li>
-    <li>Plastic pouches</li>
-     <li>Drink bottles</li>
-     <li>Toiletries and shampoo bottles</li>
-     </ul>
+     <p>Plastics:</p>
+     <p>Cling wrap</p>
+     <p>Margarine tubes</p>
+     <p>Plastic trays</p>
+    <p>Plastic pouches</p>
+     <p>Drink bottles</p>
+     <p>Toiletries and shampoo bottles</p>
+   
     
     
      </div>
