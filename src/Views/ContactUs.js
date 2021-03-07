@@ -6,7 +6,7 @@ function WhoAreWe() {
     <div className="center">
       <div className="whoarewe">
         <h1>Who Are We?</h1>
-        <img src={process.env.PUBLIC_URL + "/images/US.png"} alt="5 happy girls"></img>
+        <img className= "us-img" src={process.env.PUBLIC_URL + "/images/US.png"} alt="5 happy girls"></img>
         <p>From left to right: Marta Masramon Munoz, Mireia Munoz Rojo, Livia Soro, Manuela Giraud, Yacout Rtel Bennani</p>
       </div>
 
