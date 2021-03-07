@@ -1,6 +1,6 @@
 module.exports = [
   {
-    borough: "Chelsea",
+    borough: "Kensington and Chelsea",
     card1_title: "Mixed bank",
     card1_body: "To use the banks: you don't need to separate items. Don't use recycling bags - put items straight into the bank.",
     card2_title: "Clear bag recycling",
@@ -20,7 +20,7 @@ module.exports = [
     ]
   },
   {
-    borough: "Fulham",
+    borough: "Hammersmith and Fulham",
     card1_title: "Mixed bank",
     card1_body: "To use the banks: you don't need to separate items. Don't use recycling bags - put items straight into the bank.",
     card2_title: "Clear bag recycling",
