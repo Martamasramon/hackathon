@@ -40,7 +40,7 @@ function Help() {
            <p>Old photocopies</p>
            <p>Don not forget to remove any staples and paper clips before recycling papers!</p>
 
-
+      </div>
        </div>
       </div>
 
