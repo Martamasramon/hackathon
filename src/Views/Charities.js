@@ -57,7 +57,7 @@ function Charities() {
           <p><a href="https://www.keepbritaintidy.org">Keep Britain Tidy</a>is a UK-based independent environmental charity. The organisation campaigns to reduce litter, improve local places and prevent waste. It has offices in Wigan and London.</p>
         </div>
       </div>
-    </div>
+   
     
     <div class="container">
         <div class="image">
@@ -69,7 +69,7 @@ function Charities() {
           <p><a href="https://www.bbcchildreninneed.co.uk">BBC Children in Need</a>is the BBC's UK charity for disadvantaged children and young people in the UK.</p>
         </div>
       </div>
-    </div>
+    
     
     <div class="container">
         <div class="image">
@@ -81,8 +81,8 @@ function Charities() {
           <p><a href="https://www.wwf.org.uk">WWF</a>is an international non-governmental organisation that aims to reduce the human impact on environment.</p>
         </div>
       </div>
+    
     </div>
-
     </div>
   );
 }
