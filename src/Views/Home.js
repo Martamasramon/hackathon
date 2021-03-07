@@ -9,7 +9,7 @@ function Home() {
         <h2>You recycle. We donate.</h2>
         <img src={process.env.PUBLIC_URL + "/images/BusinessModel.png"} alt="Business Model"></img>
         <h2> </h2>
-        <img src={process.env.PUBLIC_URL + "/images/5trees.png"} alt="Little Forest"></img>
+        <img className="trees" src={process.env.PUBLIC_URL + "/images/5trees.png"} alt="Little Forest"></img>
       </div>
 
 
