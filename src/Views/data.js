@@ -5,7 +5,6 @@ module.exports = [
     card1_body: "To use the banks: you don't need to separate items. Don't use recycling bags - put items straight into the bank.",
     card2_title: "Clear bag recycling",
     card2_body: "22 clear recycling bags are distributed per property every three months. If you don’t receive these, please call Streetline on 020 7361 3001.",
-    <img src={process.env.PUBLIC_URL + "/images/Yes.png"} alt="Yes"></img>
     recycle: [
       "- Card, cardboard, unshredded paper, newspaper, magazines, junk mail, telephone directories and envelopes",
       "- Glass containers, bottles and jars (take metal lids off and put them loose in your recycling)",
@@ -13,7 +12,6 @@ module.exports = [
       "- Metal containers, tins and cans",
       "- plastic containers, plastic bottles, pots, tubs and trays"
     ],
-  <img src={process.env.PUBLIC_URL + "/images/No.png"} alt="No"></img>
     noRecycle: [
       "- Food waste, garden waste, clothes, shoes and textiles",
       "- Other plastics including carrier bags, polystyrene and cling film",
@@ -21,10 +19,10 @@ module.exports = [
       "- Shredded paper, nappies including used nappies, light bulbs, batteries and aerosol cans"
     ]
   },
-  
-  
-  
-  
+
+
+
+
   {
     borough: "Hammersmith and Fulham",
     card1_title: "Smart Sacks",
@@ -55,12 +53,12 @@ module.exports = [
       "- Aerosol cans"
     ]
   },
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
   {
     borough: "Camden",
     card1_title: "Mixed bank",
@@ -83,18 +81,18 @@ module.exports = [
     ],
     noRecycle: [
      "Your recycling will not be collected if it contains anything that can’t be recycled. This includes black bin liners, textiles, nappies or food."
-      
+
     ]
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
+
+
   {
     borough: "Islington",
     card1_title: "",
