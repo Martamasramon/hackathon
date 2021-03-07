@@ -35,8 +35,8 @@ const Boroughs = () => {
           </Dropdown.Toggle>
 
           <Dropdown.Menu>
-            <Dropdown.Item href="#" value="chelsea" onClick={e => {show(e)}}>Chelsea</Dropdown.Item>
-            <Dropdown.Item href="#" value="fulham" onClick={e => {show(e)}}>Fulham</Dropdown.Item>
+            <Dropdown.Item href="#" value="chelsea" onClick={e => {show(e)}}>Kensington Chelsea</Dropdown.Item>
+            <Dropdown.Item href="#" value="fulham" onClick={e => {show(e)}}>Hammersmith and Fulham</Dropdown.Item>
             <Dropdown.Item href="#" value="camden" onClick={e => {show(e)}}>Camden</Dropdown.Item>
             <Dropdown.Item href="#" value="islington" onClick={e => {show(e)}}>Islington</Dropdown.Item>
           </Dropdown.Menu>
