@@ -55,14 +55,14 @@ function BoroughItem(props) {
           </div>
 
 
-          <img src={process.env.PUBLIC_URL + "/images/Yes.png"} width="40" height="40" alt="Yes"></img>
+          <img src={process.env.PUBLIC_URL + "/images/Yes.png"} width="5" height="40" alt="Yes"></img>
 
           <h3 className="space">What can I recycle?</h3>
           <div className="items">
             {data[numb].recycle.map((item) => ( <p>{item}</p> ))}
           </div>
 
-          <img src={process.env.PUBLIC_URL + "/images/No.png"} width="40" height="40" alt="No"></img>
+          <img src={process.env.PUBLIC_URL + "/images/No.png"} width="5" height="40" alt="No"></img>
 
           <h3>What not to recycle?</h3>
           <div className="items">
