@@ -1,7 +1,7 @@
 /* General */
 .topnav, .footer, .home, .help, .contact, .charity,
 .whoarewe, .boroughs, .boroughItem{
-  padding: 10px 100px 75px 80px;
+  padding: 10px 100px 50px 80px;
 }
 
 .yellow{
