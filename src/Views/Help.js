@@ -15,9 +15,22 @@ function Help() {
         <img src={process.env.PUBLIC_URL + "/images/Recycling.png"} alt="Little Forest"></img>
         <p>Once you understand them, it is important to know what are your borough can recycle. Depending on your local area, you might be able to recycle some products that some other area cannot.</p>
       </div>
-     </div>
     
-
+    <h1>Materials</h1>
+     <p>Here is a list of the materials that can be recycled: </p>
+     <p>Plastics</p>
+     <ul>
+     <li>Cling wrap</li>
+     <li>Margarine tubes</li>
+     <li>Plastic trays</li>
+    <li>Plastic pouches</li>
+     <li>Drink bottles</li>
+     <li>Toiletries and shampoo bottles</li>
+     </ul>
+    
+    
+     </div>
+  
     </div>
 
   );
