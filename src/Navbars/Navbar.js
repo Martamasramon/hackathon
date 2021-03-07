@@ -7,7 +7,7 @@ function NavigationBar() {
     <div className="topnav">
       <Navbar expand="lg">
         <Navbar.Brand className="logo" href="#home">
-          <img className="logo-img" src={process.env.PUBLIC_URL + "/images/tree_sm.png"} alt="logo"></img>Seedling</Navbar.Brand>
+          <img className="logo-img" src={process.env.PUBLIC_URL + "/images/logoooo.png"} alt="logo"></img>Seedling</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
 
         <Navbar.Collapse id="basic-navbar-nav">
