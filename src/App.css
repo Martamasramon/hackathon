@@ -75,6 +75,12 @@
   padding-top: 50px;
 }
 
+.yesno{
+  margin-top: 40px;
+  width: 150px;
+  height: 130px;
+}
+
 /* Charities */
 .char-img{
   text-align: center;

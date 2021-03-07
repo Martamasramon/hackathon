@@ -21,8 +21,6 @@ module.exports = [
   },
 
 
-
-
   {
     borough: "Hammersmith and Fulham",
     card1_title: "Smart Sacks",
