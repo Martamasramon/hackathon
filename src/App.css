@@ -65,6 +65,15 @@
   font-size: 18px;
 }
 
+.items p{
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.space{
+  padding-top: 50px;
+}
+
 /* Charities */
 .char-img{
   text-align: center;
