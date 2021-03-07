@@ -20,7 +20,7 @@ function Help() {
 
         <h1>Materials</h1>
          <p>Here is a list of the materials that can be recycled: </p>
-         <p>Plastics</p>
+         <h4><b>Plastics</b></h4>
          <p>Plastics are widely recycled in London, here are a few examples of plastics item that can be recycled:</p>
          <p>Cling wrap</p>
          <p>Margarine tubes</p>
@@ -29,16 +29,22 @@ function Help() {
          <p>Drink bottles</p>
          <p>Toiletries and shampoo bottles</p>
          <p></p>
-         <p>Organic Waste</p>
+         <h4><b>Organic wastes</b></h4>
          <p>Organic waste can be transformed into compost. Depending on your borough, you might be able to recycle it! If not, you can <a href="https://learn.eartheasy.com/guides/composting/">do it yourself!</a>It is a very easy process!</p>
          <p></p>
-         <p>Paper</p>
+         <h4><b>Paper</b></h4>
          <p>Paper is widely recycled in London. You can recycle:</p>
          <p>Magasins</p>
          <p>Cardboard</p>
          <p>Newspapers</p>
          <p>Old photocopies</p>
-         <p>Don not forget to remove any staples and paper clips before recycling papers!</p>
+         <p>Do not forget to remove any staples and paper clips before recycling papers!</p>
+         <p></p>
+         <h4><b>Electronic Equipment</b></h4>
+         <p>Computers, phones, old batteries, (etc.) can be recycled. They need to go into specialised bins.</p>
+         <p></p>
+         <h4><b>Textile</b></h4>
+         <p>Clothes and other textiles can be recycled easily. You can also donate the clothes that are just taking place in your closet!</p>
 
 
      </div>
