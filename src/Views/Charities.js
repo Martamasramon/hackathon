@@ -12,19 +12,6 @@ function Charities() {
       </div>
 
       <div className="home">
-
-        <div class="container">
-          <div class="image">
-            <img className="char-img" src={process.env.PUBLIC_URL + "/images/heartfoundation.png"} alt="logo"></img>
-          </div>
-
-          <div class="text">
-            <h3>British Heart Fundation</h3>
-            <p>
-            <a href="https://www.bhf.org.uk">British Heart Fundation</a>funds research related to heart and circulatory diseases and their risk factors.</p>
-          </div>
-        </div>
-
         <div class="container">
           <div class="image">
             <img className="char-img" src={process.env.PUBLIC_URL + "/images/mcmillan.png"} alt="logo"></img>
@@ -81,6 +68,18 @@ function Charities() {
           <p><a href="https://www.wwf.org.uk">WWF</a>is an international non-governmental organisation that aims to reduce the human impact on environment.</p>
         </div>
       </div>
+    
+    <div class="container">
+          <div class="image">
+            <img className="char-img" src={process.env.PUBLIC_URL + "/images/heartfoundation.png"} alt="logo"></img>
+          </div>
+
+    <div class="text">
+            <h3>British Heart Fundation</h3>
+            <p>
+            <a href="https://www.bhf.org.uk">British Heart Fundation</a>funds research related to heart and circulatory diseases and their risk factors.</p>
+          </div>
+        </div>
     
     </div>
     </div>
